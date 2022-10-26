@@ -21,5 +21,4 @@
 
 ### Timer 사용법
   타이머 시작 후 구간기록 버튼을 눌러 기록 측정
-  
-![image]<img src="C:\Users\82107\Desktop" width="너비 " height="높이">
+<img src="C:\Users\82107\Desktop\Hearthstone Screenshot 04-21-20 02.08.07.png" width="700" height="370">

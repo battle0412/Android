@@ -16,8 +16,8 @@
   구간 기록 버튼
     스크롤 뷰에 구간 구간기록 전체시작 레이아웃 추가
     서브 타이머 값 초기화
-    기록이 3개 이상인 경우 최소(<span style="color:blue">파랑</span>), 최대(빨강) 표시
-  
+    기록이 3개 이상인 경우 최소(<span style="color:blue">파랑</span>), 최대(<span style="color:red">빨강</span>) 표시
+  <span style="color:blue">파랑</span>
 
 ### Timer 사용법
   타이머 시작 후 구간기록 버튼을 눌러 기록 측정

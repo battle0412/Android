@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="20dp"
+    android:weightSum="5"
+    >
+    <TextView
+        android:id="@+id/index"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="구간"
+        android:textSize="15dp"
+        android:textColor="@color/gray"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/interval"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="구간기록"
+        android:textSize="15dp"
+        android:textColor="@color/lightGray"
+        android:layout_weight="2"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/totalTime"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="전체 시간"
+        android:textSize="15dp"
+        android:textColor="@color/ghostWhite"
+        android:layout_weight="2"
+        android:textAlignment="center"
+        />
+</LinearLayout>

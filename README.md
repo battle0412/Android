@@ -12,13 +12,17 @@
   구간 기록 저장 및 초기화
 
 ### Timer 기술 설명
+
   스레드 1개만 사용하여 메인 및 구간기록 타이머 시작
   
   구간 기록 버튼
-    스크롤 뷰에 구간 | 구간기록 | 전체시작 레이아웃 추가
+  
+    스크롤 뷰에 구간기록 레이아웃 추가
     서브 타이머 값 초기화
-    기록이 3개 이상인 경우 최소(파랑), 최대(빨강) 표시
-
+    기록이 3개 이상인 경우 최소(<span style="color:#0000FF">파랑</span>), 최대(빨강) 표시
+<span style="color:#ffd33d">파랑</span>
 ### Timer 사용법
+
   타이머 시작 후 구간기록 버튼을 눌러 기록 측정
-<img src="C:\Users\82107\Desktop\Hearthstone Screenshot 04-21-20 02.08.07.png" width="700" height="370">
+  
+<img src="https://user-images.githubusercontent.com/45412843/198030826-ce38c6f2-f44d-4516-ae86-f1fea8a27d9e.jpg" width="250" height="400">
